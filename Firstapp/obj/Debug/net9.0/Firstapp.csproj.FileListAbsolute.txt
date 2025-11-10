@@ -1,0 +1,14 @@
+C:\Users\Tamás\.dotnet\Firstapp\bin\Debug\net9.0\Firstapp.exe
+C:\Users\Tamás\.dotnet\Firstapp\bin\Debug\net9.0\Firstapp.deps.json
+C:\Users\Tamás\.dotnet\Firstapp\bin\Debug\net9.0\Firstapp.runtimeconfig.json
+C:\Users\Tamás\.dotnet\Firstapp\bin\Debug\net9.0\Firstapp.dll
+C:\Users\Tamás\.dotnet\Firstapp\bin\Debug\net9.0\Firstapp.pdb
+C:\Users\Tamás\.dotnet\Firstapp\obj\Debug\net9.0\Firstapp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tamás\.dotnet\Firstapp\obj\Debug\net9.0\Firstapp.AssemblyInfoInputs.cache
+C:\Users\Tamás\.dotnet\Firstapp\obj\Debug\net9.0\Firstapp.AssemblyInfo.cs
+C:\Users\Tamás\.dotnet\Firstapp\obj\Debug\net9.0\Firstapp.csproj.CoreCompileInputs.cache
+C:\Users\Tamás\.dotnet\Firstapp\obj\Debug\net9.0\Firstapp.dll
+C:\Users\Tamás\.dotnet\Firstapp\obj\Debug\net9.0\refint\Firstapp.dll
+C:\Users\Tamás\.dotnet\Firstapp\obj\Debug\net9.0\Firstapp.pdb
+C:\Users\Tamás\.dotnet\Firstapp\obj\Debug\net9.0\Firstapp.genruntimeconfig.cache
+C:\Users\Tamás\.dotnet\Firstapp\obj\Debug\net9.0\ref\Firstapp.dll
